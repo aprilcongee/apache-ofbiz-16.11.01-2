@@ -114,7 +114,7 @@ public class LabelManagerFactory {
             if (UtilValidate.isNotEmpty(fileName) && !fileName.equals(fileInfo.getFileName())) {
                 continue;
             }
-            if ("ExampleEntityLabels.xml".equals(fileInfo.getFileName())
+            if ("HTEntityLabels.xml".equals(fileInfo.getFileName())
                     || "ProductPromoUiLabels.xml".equals(fileInfo.getFileName())
                     ) {
                 continue;

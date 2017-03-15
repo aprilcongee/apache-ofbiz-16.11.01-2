@@ -43,7 +43,7 @@ under the License.
         <field name="htId" type="id-ne"><description>primary sequenced ID</description></field>
         <field name="htName" type="name"></field>
         <field name="longDescription" type="very-long"></field>
-        <field name="creationDate" type="date-time"></field>
+        <field name="createDate" type="date-time"></field>
         <field name="startDate" type="date-time"></field>
         <field name="dateTo" type="date-time"></field>
         <field name="amount" type="floating-poit"></field>
